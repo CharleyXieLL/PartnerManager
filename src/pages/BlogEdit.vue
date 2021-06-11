@@ -1,11 +1,11 @@
 <template>
-  <router-view></router-view>
+<div>
+    <span>BlogEdit</span>
+</div>
 </template>
 <script>
 export default {
-  name: "App",
-};
+}
 </script>
-
 <style>
 </style>
